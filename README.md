@@ -21,3 +21,8 @@ Designed for **MediLab Health Clinic (Delhi)** to provide patients with easy acc
 - **HTML5** – Structure  
 - **CSS3** – Styling (modern, responsive design with flex/grid)  
 - **JavaScript** – Interactivity and smooth animations  
+
+---
+
+## 🔗 Live Demo
+- [**visit**](https://mdzafar99.github.io/MediLab-Healt-Clinic/)
