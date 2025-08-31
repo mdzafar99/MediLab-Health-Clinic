@@ -12,7 +12,6 @@ Designed for **MediLab Health Clinic (Delhi)** to provide patients with easy acc
 - 🏥 **Departments & Services** – Detailed sections about available treatments and specialties.  
 - 👨‍⚕️ **Doctors Section** – List of doctors with specialization.  
 - 📍 **Location** – Based in **Delhi, India**.  
-- 📞 **Contact Info** – Easy access for patients: `+91 93837 XXXXX`.  
 - 📅 **Appointment Booking** – Simple and accessible form.  
 
 ---
@@ -25,4 +24,4 @@ Designed for **MediLab Health Clinic (Delhi)** to provide patients with easy acc
 ---
 
 ## 🔗 Live Demo
-- [**visit**](https://mdzafar99.github.io/MediLab-Healt-Clinic/)
+- [**visit**](https://mdzafar99.github.io/MediLab-Health-Clinic/)
