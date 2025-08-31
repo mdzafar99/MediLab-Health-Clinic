@@ -19,12 +19,6 @@ body {
 
 
 
-html {
-  overflow-y: scroll; 
-}
-
-
-
 /* Splash Screen */
 #splash-screen {
   position: fixed;
@@ -33,7 +27,7 @@ html {
   width: 100%;
   height: 100%;
   background: #2563eb; /* Blue */
-  display: none;
+  display: flex;
   flex-direction: column;
   justify-content: center; /* Vertical center */
   align-items: center;     /* Horizontal center */
