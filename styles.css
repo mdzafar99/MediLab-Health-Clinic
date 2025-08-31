@@ -41,6 +41,7 @@ body {
   font-weight: 600;
   color: white;
   margin: 0 0 20px 0; /* Only bottom margin for gap */
+  padding: 0 20xp;
 }
 
 .splash-loader {
