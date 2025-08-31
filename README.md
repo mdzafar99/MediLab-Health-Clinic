@@ -1,5 +1,7 @@
 # 🏥 MediLab Health Clinic Website
 
+![Image](https://github.com/user-attachments/assets/5b8195af-1fe8-47e8-be88-f5ae50560a04)
+
 A modern, stylish, and fully responsive **clinic landing page** built using **HTML, CSS, and JavaScript**.  
 Designed for **MediLab Health Clinic (Delhi)** to provide patients with easy access to services, doctors, and appointment booking.
 
