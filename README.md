@@ -1,4 +1,4 @@
-# 🏥 MediLab Health Clinic Website
+# 🏥 **MediLab+** - Health Clinic Management System 
 
 ![Image](https://github.com/user-attachments/assets/5b8195af-1fe8-47e8-be88-f5ae50560a04)
 
