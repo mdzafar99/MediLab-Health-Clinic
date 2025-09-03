@@ -100,7 +100,6 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 50px;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
@@ -108,7 +107,7 @@ html {
 
 /* Header Logo */
 .nav-logo img {
-  height: 100px;
+  height: 200px;
   width: auto;
 }
 
