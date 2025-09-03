@@ -19,6 +19,8 @@ body {
 
 
 
+
+
 /* Splash Screen */
 #splash-screen {
   position: fixed;
@@ -104,7 +106,7 @@ html {
 
 /* Header Logo */
 .nav-logo img {
-  height: 50px;
+  height: 200px;
   width: auto;
 }
 
