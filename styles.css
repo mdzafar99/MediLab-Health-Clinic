@@ -57,11 +57,7 @@ body {
   100% { transform: rotate(360deg); }
 }
 
-/* Header Logo */
-.header .logo img {
-  height: 50px;
-  width: auto;
-}
+
 
 
 
@@ -106,10 +102,10 @@ html {
     padding: 0 20px;
 }
 
-.nav-logo h2 {
-    color: #2563eb;
-    font-weight: 600;
-    font-size: 1.5rem;
+/* Header Logo */
+.nav-logo img {
+  height: 50px;
+  width: auto;
 }
 
 .nav-menu {
