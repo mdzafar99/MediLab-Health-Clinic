@@ -103,8 +103,8 @@ html {
 }
 
 /* Header Logo */
-.nav-logo {
-  height: 2px;
+.nav-logo img{
+  height: 100px;
   width: auto;
 }
 
