@@ -1,6 +1,6 @@
 # 🏥 **MediLab+** : Health Clinic Management System 
 
-![Image](https://github.com/user-attachments/assets/5b8195af-1fe8-47e8-be88-f5ae50560a04)
+![Image](https://github.com/user-attachments/assets/ae3054d4-b5bb-498d-80fb-d953ad8b43ee)
 
 A modern, stylish, and fully responsive **clinic landing page** built using **HTML, CSS, and JavaScript**.  
 Designed for **MediLab Health Clinic (Delhi)** to provide patients with easy access to services, doctors, and appointment booking.
