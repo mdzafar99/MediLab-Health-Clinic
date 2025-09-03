@@ -36,7 +36,7 @@ body {
 }
 
 .splash-logo {
-  width: 400px;
+  width: 500px;
   height: auto;
   margin-bottom: 20px;
 }
@@ -104,8 +104,8 @@ html {
 
 /* Header Logo */
 .nav-logo {
-  height: auto;
-  width: 100px;
+  height: 200px;
+  width: auto;
 }
 
 .nav-menu {
