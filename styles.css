@@ -26,7 +26,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #2563eb; /* Blue */
+  background: #ffffff; /* White */
   display: flex;
   flex-direction: column;
   justify-content: center; /* Vertical center */
@@ -36,11 +36,9 @@ body {
 }
 
 .splash-logo {
-  font-family: 'Poppins', sans-serif;
-  font-size: 2rem;
-  font-weight: 600;
-  color: white;
-  margin: 0 0 20px 0; /* Only bottom margin for gap */
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
 }
 
 .splash-loader {
@@ -57,6 +55,12 @@ body {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+/* Header Logo */
+.header .logo img {
+  height: 50px;
+  width: auto;
 }
 
 
