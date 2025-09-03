@@ -416,12 +416,11 @@ window.addEventListener('scroll', () => {
 
 
 
-// Splash Screen Hide
-window.addEventListener('load', () => {
-  const splash = document.getElementById('splash-screen');
+// Splash Screen hide after load
+window.addEventListener("load", () => {
+  const splash = document.getElementById("splash-screen");
   setTimeout(() => {
-    splash.style.opacity = '0';
-    splash.style.transition = 'opacity 0.6s ease';
-    setTimeout(() => splash.style.display = 'none', 600);
-  }, 1500); // 1.5 sec delay
+    splash.style.opacity = "0";
+    setTimeout(() => splash.style.display = "none", 500);
+  }, 1500);
 });
