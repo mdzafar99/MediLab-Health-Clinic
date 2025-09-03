@@ -77,7 +77,7 @@ html {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 0px;
+    padding: 0 20px;
 }
 
 /* Main Content */
@@ -107,7 +107,7 @@ html {
 
 /* Header Logo */
 .nav-logo img {
-  height: 200px;
+  height: 100px;
   width: auto;
 }
 
