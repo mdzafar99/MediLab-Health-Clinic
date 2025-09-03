@@ -94,13 +94,13 @@ html {
 
 .navbar {
     padding: 1rem 0;
-    height: 50px;
 }
 
 .nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 50px;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
